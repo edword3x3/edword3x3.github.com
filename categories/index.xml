@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on </title>
+    <link>https://edword3x3.github.io/categories/</link>
+    <description>Recent content in Categories on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://edword3x3.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>releases</title>
+      <link>https://edword3x3.github.io/categories/releases/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://edword3x3.github.io/categories/releases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tranquilpeak</title>
+      <link>https://edword3x3.github.io/categories/tranquilpeak/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://edword3x3.github.io/categories/tranquilpeak/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
